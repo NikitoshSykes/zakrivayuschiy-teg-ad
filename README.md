@@ -1,2 +1,2 @@
-https://github.com/NikitoshSykes/zakrivayuschiy-teg-ad
+https://nikitoshsykes.github.io/zakrivayuschiy-teg-ad/
 
