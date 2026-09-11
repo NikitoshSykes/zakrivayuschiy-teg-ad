@@ -1,2 +1,2 @@
-git@github.com:NikitoshSykes/zakrivayuschiy-teg-ad.git
+https://github.com/NikitoshSykes/zakrivayuschiy-teg-ad
 
